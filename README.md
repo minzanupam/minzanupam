@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Anupam-Ashish-Minz
+- 👀 I’m interested in core system programs, shell and utilies, web development, coding challenges
+- 🌱 I’m currently learning ...
+- 📫 You can reach me via email, github, twitter, linkedin, etc.
+- 🐦 Twitter - @minz_anupam, 
+- 🔥🔥🔥 I also Stream Code On Twitch Come Hangout, https://twitch.tv/mark52s
