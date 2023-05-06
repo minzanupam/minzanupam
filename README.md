@@ -6,7 +6,7 @@
 - <img src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" alt="web dev gif" height="40"  width="40" /> Core System Programs
 - <img src="https://linoxide.com/wp-content/uploads/2017/08/minikube-start.gif" alt="web dev gif" height="40" width="40"/> Shell and Utilies
 - <img src="https://media.giphy.com/media/YPUh8SkoYuurwwV4bz/giphy.gif" alt="web dev gif" height="40"  width="40" /> Web Development
-- <img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" alt="web dev gif" height="40"  width="40" /> Coding Challenges
+- <img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" alt="web dev gif" height="40"  width="40" /> Coding for Fun
 
 -----
 <h3 align="left">Connect with me:</h3>
