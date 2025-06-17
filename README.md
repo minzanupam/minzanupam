@@ -17,7 +17,7 @@ Twitter -
 </a>      
  &emsp;&emsp;
 LinkedIn - 
-<a href="https://linkedin.com/in/anupam-ashish-minz-8113421aa" target="_blank" rel="noreferrer">
-@anupam-ashish-minz
+<a href="https://www.linkedin.com/in/anupam-minz-8113421aa/" target="_blank" rel="noreferrer">
+Anupam Minz
 </a>
 </p>
