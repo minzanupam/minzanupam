@@ -21,5 +21,3 @@ LinkedIn -
 @anupam-ashish-minz
 </a>
 </p>
-
-- 📫 Reach me **anupamminz300am@gmail.com**
