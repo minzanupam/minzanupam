@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" alt="Hi 👋" width="40" height="40" /> I’m @Anupam-Ashish-Minz</h1>
+<h1 align="center"><img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" alt="Hi 👋" width="40" height="40" /> I’m @minzanupam</h1>
 
 <p align="center"> <img src="https://media.giphy.com/media/lOgu1OnjYF2GHBfRU4/giphy.gif" alt="Greeting gif" height="280" /> </p>
 <h3 align="left"> I’m interested in : </h3>
